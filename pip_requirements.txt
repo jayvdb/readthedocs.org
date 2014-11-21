@@ -29,7 +29,6 @@ slumber==0.6.0
 lxml==3.3.5
 
 # Basic tools
-Pyrex
 redis==2.7.1
 hiredis==0.1.2
 celery==3.0.24
@@ -77,3 +76,4 @@ git+https://github.com/ericholscher/readthedocs-sphinx-ext#egg=readthedocs_ext
 
 git+https://github.com/alex/django-taggit.git#egg=django_taggit-dev
 
+http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/Pyrex-0.9.9.tar.gz#egg=Pyrex
