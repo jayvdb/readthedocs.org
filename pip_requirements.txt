@@ -62,7 +62,6 @@ simplejson
 sphinx-http-domain==0.2
 
 # Version comparison stuff
-Distutils2==1.0a4
 distlib==0.1.2
 
 # Commenting stuff
